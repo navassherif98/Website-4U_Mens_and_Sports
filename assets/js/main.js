@@ -19,6 +19,13 @@ var form = document.getElementById("contactform");
     }
     form.addEventListener("submit", handleSubmit)
 
+    function searchFunc(){
+        var inp=document.getElementById("inputsearch").value;
+
+        document.getElementById("searchform").action="#"+inp;
+        document.getElementById("inputsearch").value=""
+        }
+
 "use strict";
 jQuery(document).ready(function ($) {
 
