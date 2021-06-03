@@ -1,3 +1,6 @@
+window.onload=function(){
+    $("all").click();
+}
 var form = document.getElementById("contactform");
     
     async function handleSubmit(event) {
