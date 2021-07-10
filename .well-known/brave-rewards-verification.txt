@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mundur4u.herokuapp.com
+Token: 789122d9f185b08fbe2fe996e71ea97e42c74aa50218b696cb547e0a7647f5e9
